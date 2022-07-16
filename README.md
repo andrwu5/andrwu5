@@ -7,4 +7,4 @@
 ## 📞 If you want to DM me:
 [<img src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge"/>][telegram]
 
-[telegram]: https://t.me/@Andrwu5
+[telegram]: https://t.me/Andrwu5
